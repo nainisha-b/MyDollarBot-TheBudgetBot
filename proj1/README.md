@@ -2,6 +2,14 @@
 
 MyDollarBot - TheBudgetBot is a bot which is powered through Telegram to manage expenses and budgets. it also provides a complete view using graphs to show how money is being spent.
 
+## Team Details
+
+Group Number - 68<br><br>
+<b>Team Members:</b><br>
+Anvitha Reddy Gutha - <i>agutha@ncsu.edu</i><br>
+Nainisha Bhallamudi - <i>nbhalla@ncsu.edu</i><br>
+Sri Vaishnavi Mylavarapu - <i>smylava@ncsu.edu</i><br>
+
 ## Video
 You can find the link to the existing implementation of the project as below with the project name that was assigned. <br>
 [MyDollarBot - TheBudgetBot](https://youtu.be/6jXNsszrPys)
