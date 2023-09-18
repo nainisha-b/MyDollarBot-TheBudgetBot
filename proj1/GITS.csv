@@ -1,0 +1,100 @@
+﻿S. No,Notes,Self-assement == 203,Evidence
+1,workload is spread over the whole team (one team member is often Xtimes more productive than the others...,3,All contributors have made significant commits in the codebase. (https://github.com/harshitpatel96/GITS/graphs/contributors)
+2,"but nevertheless, here is a track record that everyone is contributing a lot)",3,https://github.com/harshitpatel96/GITS/graphs/contributors
+3,Number of commits,3,https://github.com/harshitpatel96/GITS/graphs/commit-activity
+4,Number of commits: by different people,3,https://github.com/harshitpatel96/GITS/graphs/commit-activity
+5,Issues reports: there were few,3,https://github.com/harshitpatel96/GITS/issues
+6,issues are being closed,3,https://github.com/harshitpatel96/GITS/issues?q=is%3Aissue+is%3Aclosed
+7,DOI badge: exists,3,https://github.com/harshitpatel96/GITS/blob/master/README.md
+8,"Docs: doco generated , format not ugly",2,https://github.com/harshitpatel96/GITS/tree/master/docs
+9,Docs: what: point descriptions of each class/function (in isolation),2,https://github.com/harshitpatel96/GITS/tree/master/docs
+10,"Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z",0,mini-tutorials with example is not present in the documentation
+11,"Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing",1,https://github.com/harshitpatel96/GITS/blob/master/README.md
+12,"Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.",0,Video is not present in the documentation
+13,Use of version control tools,3,Git is used as a version control tool
+14,Use of style checkers,2,https://github.com/harshitpatel96/GITS/blob/master/.travis.yml
+15,Use of code formatters.,2,config files in Github showing this formatter's config
+16,Use of syntax checkers.,0,
+17,Use of code coverage,1,https://github.com/harshitpatel96/GITS/blob/master/.coverage
+18,other automated analysis tools,2,https://github.com/harshitpatel96/GITS/blob/master/.travis.yml
+19,test cases exist,3,https://github.com/harshitpatel96/GITS/tree/master/test
+20,test cases are routinely executed,1,There is no speciifc proof that test cases are routinely executed in repository
+21,the files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up,2,https://github.com/harshitpatel96/GITS/blob/master/CONTRIBUTING.md
+22,issues are discussed before they are closed,3,https://github.com/harshitpatel96/GITS/issues?q=is%3Aissue+is%3Aclosed
+23,Chat channel: exists,0,No chat channel found on github
+24,test cases:.a large proportion of the issues related to handling failing cases.,2,"if a test case fails, open an issue and fix it"
+25,evidence that the whole team is using the same tools: everyone can get to all tools and files,3,We can clearly see that entire codebase has been written in Python (https://github.com/search?q=repo%3Aharshitpatel96%2FGITS+type%3Apython&type=issues). Everyone has the same access to the repository and also have equal access to comitting directly to the main branch.
+26,"evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)",2,config files in Github showing different people updated the file
+27,"evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)",3,https://github.com/harshitpatel96/GITS/pulse
+28,Evidence that the members of the team are working across multiple places in the code base,3,https://github.com/harshitpatel96/GITS/pulse
+29,short release cycles,2,https://github.com/harshitpatel96/GITS/releases
+30,Documentation provides clear overview of software and uses,3,https://github.com/harshitpatel96/GITS/blob/master/README.md
+31,Website and documentation clearly describe the type of user who should use your software,1,https://github.com/harshitpatel96/GITS/blob/master/README.md
+32,Case studies to show how software is used by us,0,didn't provide a video link in the repository
+33,Project name unique,3,GiTS is defined from the git language and simple word. Since project is simplified version of git. 
+34,Project name free from trademark violations,3,"We verified that ""GITS"" has not been trademarked by any python repository or any US company."
+35,Software available as a package that can be deployed without building it,3,
+36,Software available for free,3,repository is public and can be clone and used by anyone(https://github.com/harshitpatel96/GITS)
+37,"Source code publicly available to download, either as a downloadable bundle or via access to a source code repository",3,git clone https://github.com/harshitpatel96/GITS.git or Download as a zip file from here https://github.com/harshitpatel96/GITS/archive/refs/heads/main.zip
+38,"Software hosted in an established, third-party repository likeGitHub (https://github.com)",3,Yes
+39,Documentation clearly available within your software,3,https://github.com/harshitpatel96/GITS/blob/master/README.md
+40,"Documentation includes a ""quick start"" guide, that provides a short overview of how to use your software with some basic examples of use",2,https://github.com/harshitpatel96/GITS/blob/master/README.md
+41,"Providing more extensive documentation, that gives a clear, step-by-step instructions on how to deploy and use our software",3,https://github.com/harshitpatel96/GITS/blob/master/README.md
+42,"Comprehensive guide to all your software’s commands, functions and options",3,https://github.com/harshitpatel96/GITS/tree/master/docs
+43,Troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages,0,NA
+44,"If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation",0,NA
+45,Documentation stored under revision control with source code,3,https://github.com/harshitpatel96/GITS/blob/master/README.md
+46,"Publishing the release history e.g. release data, version numbers, key features of each release etc. in your documentation",3,The latest one doesnt have it-- https://github.com/harshitpatel96/GITS/releases
+47,Software describes how a user can get help with using your software,2,https://github.com/harshitpatel96/GITS/blob/master/README.md
+48,Our documentation describes what support we provide to users and developers,1,https://github.com/harshitpatel96/GITS/blob/master/README.md
+49,Project has an e-mail address or forum that is solely for supporting users,0,Nope
+50,E-mails to our support e-mail address are received by more than one person,0,NA 
+51,Project have a ticketing system to manage bug reports and feature requests,3,https://github.com/harshitpatel96/GITS/issues
+52,"Project's ticketing system publicly visible to your users, so they can view bug reports and feature requests",3,https://github.com/harshitpatel96/GITS/issues
+53,Software’s architecture and design is modular,2,
+54,Software uses an accepted coding standard or convention,3,"https://github.com/harshitpatel96/GITS/blob/master/CONTRIBUTING.md, https:https://github.com/harshitpatel96/GITS/blob/master/CODE_OF_CONDUCT.md"
+55,Software allows data to be imported and exported using open data formats,1,To be added in future
+56,Software allows communications using open communications protocols,1,To be added in future
+57,Software cross-platform compatible,3,The only thing needed is python. It will work on all operating systems that have python.
+58,Software adhere to appropriate accessibility conventions or standards,3,Yes
+59,Documentation adheres to appropriate accessibility conventions or standards,2,Yes
+60,Each source code releases a snapshot of the repository,1,NA 
+61,Releases are tagged in the repository,3,https://github.com/harshitpatel96/GITS/releases/tag/v2.0
+62,There is a branch of the repository that is always stable,3,the main branch is always stable 
+63,Back-up your repository,3,dev is created for backup
+64,Provide publicly available instructions for building the software from the source code,3,https://github.com/harshitpatel96/GITS/blob/master/README.md
+65,"Build, or package, the software using an automated tool",2,
+66,Provide publicly-available instructions for deploying the software,1,
+67,Documentation list all third-party dependencies,3,https://github.com/harshitpatel96/GITS/blob/master/requirements.txt
+68,Documentation lists the version number for all third-party dependencies,3,https://github.com/harshitpatel96/GITS/blob/master/requirements.txt
+69,"Software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional",2,Dependencies in requirements.txt
+70,Download dependencies using a dependency management tool or package manager,3,Requirements can be downloaded by pip
+71,Tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful,3,https://github.com/harshitpatel96/GITS/tree/master/test
+72,Automated test suite for your software,1,https://github.com/harshitpatel96/GITS/tree/master/test
+73,Framework to periodically (e.g. nightly) run your tests on the latest version of the source code,0,NA (will be a part of future roadmap)
+74,"Using continuous integration, automatically running tests whenever changes are made to your source code",0,NA
+75,Test results publicly visible,0,NA
+76,Manually-run tests documented,1,
+77,"Project has resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software",1,NA
+78,Documentation states how many projects and users are associated with your project,2,
+79,Provide success stories on your website,1,Future Scope
+80,Listing the important partners and collaborators in our documentation,1,https://github.com/harshitpatel96/GITS/blob/master/README.md
+81,Listing the project's publications on our website or link to a resource where these are available,2,
+82,Listing third-party publications that refer to the software on our website or link to a resource where these are available,2,
+83,Users can subscribe to notifications to changes to your source code repository,2,Each contributor gets an email when any issues they are assigned gets an update.
+84,"Since the software is developed as an open source project (and, not just a project developing open source software), do we have a governance model",1,NA
+85,"Do we accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?",3,"We received a Pull Request from someone outside of our project fixing one of our issues. He was simply browsing Github and came across our repo when he searched for the ""good-first-issue"" keyword."
+86,Do you have a contributions policy,3,https://github.com/harshitpatel96/GITS/blob/master/CONTRIBUTING.md
+87,Is your contributions' policy publicly available?,3,https://github.com/harshitpatel96/GITS/blob/master/CONTRIBUTING.md
+88,Do contributors keep the copyright/IP of their contributions,3,https://github.com/harshitpatel96/GITS/commit/5217a8b957dfffaa80049170f48cdd55ace2652f
+89,Website and documentation clearly states the copyright owners of your software and documentation,2,https://github.com/harshitpatel96/GITS/blob/master/CONTRIBUTING.md
+90,Do each of your source code files include a copyright statement,3,Can be seen in all the python codes
+91,The website and documentation clearly state the licence of your software,3,https://github.com/harshitpatel96/GITS/blob/master/LICENSE
+92,Software released under an open source licence,3,https://github.com/harshitpatel96/GITS/blob/master/LICENSE
+93,Software released under an OSI-approved open-source licence,3,https://github.com/harshitpatel96/GITS/blob/master/LICENSE
+94,Source code files include a licence header,3,https://github.com/harshitpatel96/GITS/blob/master/LICENSE -- MIT License
+95,Recommended citation for your software,2,
+96,"Documentation includes a project roadmap (a list of project and development milestones for the next 3, 6 months)",3,https://github.com/harshitpatel96/GITS/projects/1
+97,"Documentation describe how the project is funded, and the period over which funding is guaranteed?",1,NA
+98,"Do you make timely announcements of the deprecation of components, APIs, etc.",1,NA
+,,203,
