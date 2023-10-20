@@ -13,7 +13,7 @@
 12,"Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.",3,https://github.com/nainisha-b/MyExpenseBot/blob/main/CONTRIBUTING.md
 13,Use of version control tools,3,Git is used as a version control tool
 14,Use of style checkers,2,Flake 8 - https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo/blob/main/.travis.ym
-15,Use of code formatters.,2, python,visual studio code
+15,Use of code formatters.,2, python visual studio code
 16,Use of syntax checkers.,3,
 17,Use of code coverage,3,https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo/blob/main/README.md#code-coverage
 18,other automated analysis tools,1,https://github.com/nainisha-b/MyExpenseBot/blob/test1/.travis.yml
